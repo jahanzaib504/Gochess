@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.input-custom{
+    @apply font-serif text-2xl p-3 rounded-xl bg-white;
+}
